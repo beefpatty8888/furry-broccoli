@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "\"In terms of eligibility ...\""
+date: 2020-01-28 19:57:05 -0600
 ---
 
 > <p>"In terms of eligibility, Chief," he goes on quietly, "from an operational standpoint, we on the China side of your house would regard this as one of the key positions in the whole of the Chinese administration. If we could pick ourselves one slot for an agent inside the mainland, Nelson's might be the one."</p>  

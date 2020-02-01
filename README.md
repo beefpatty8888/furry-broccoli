@@ -1,6 +1,8 @@
-website at https://beefpatty8888.github.io/furry-broccoli/
+Repository for the website at https://beefpatty8888.github.io/furry-broccoli/
 
-The docker mount source must be an absolute path. 
+## Development environment
+
+NOTE: The docker mount source must be an absolute path. 
 ```
 cd ~/repos/furry-broccoli
 docker build -t jekyll-ubuntu:$(date +%F) .
@@ -13,4 +15,4 @@ Locate container IP address, using the `jq` utility
 docker inspect [container_id] | jq .[].NetworkSettings.Networks.bridge.IPAddress
 ```
 
-desktop browser: http://[container ip]:4000/furry-broccoli/
+From the desktop browser, go to the development site: http://[container ip]:4000/furry-broccoli/

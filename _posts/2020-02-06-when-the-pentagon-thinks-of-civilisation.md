@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "\" When the Pentagon thinks of civilisation ...\""
+date: 2020-02-06 21:29:28 -0600
 ---
 
 > <p>With a clatter of bricks falling, a volley of machine-gun bullets slapped all round them. Below them in the river-bank, by the grace of God, ran a line of empty leopard spots, shallow firing positions dug into the mud. Jerry had picked them out already. Grabbing the girl, he threw her down. Keller was already flat. Lying beside her, Jerry discerned a deep lack of interest. Better a bullet or two here than getting what Frostie got.</p>

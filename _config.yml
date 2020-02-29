@@ -1,4 +1,3 @@
 theme: jekyll-theme-slate
 paginate: 5
-paginate_path: "/furry-broccoli/page:num/"
 baseurl: /furry-broccoli

@@ -5,10 +5,10 @@ Date: 2020-02-29 08:35:18 -0600
 ---
 ... what stands out in the film are the death screams. Sure, there is the slightly nauseous use of the low angle moving camera, and the over-used light flares, but I am going to remember most all are the death screams. Didn't any of the actors find their voice getting hoarse after the 15th take of the death scream ?
 
-> Michael Bay: "You are about to die, and you are letting out your final scream."
-> Random dude about to die: "aaahhhhh"
-> Bay: "Louder! This is your moment, your cri de coeur. You are crying out from heart. You see your death coming, and you just can't bear it. You can't hold it. You are screaming for your life!"
-> Random dude: "AAAAAAHHHHHH*cough**cough**wheeze*aaaaahhhh. Crap, I should have stopped smoking."
+> <p>Michael Bay: "You are about to die, and you are letting out your final scream."</p>
+> <p>Random dude about to die: "aaahhhhh"</p>
+> <p>Bay: "Louder! This is your moment, your cri de coeur. You are crying out from heart. You see your death coming, and you just can't bear it. You can't hold it. You are screaming for your life!"</p>
+> <p>Random dude: "AAAAAAHHHHHH*cough**cough**wheeze*aaaaahhhh. Crap, I should have stopped smoking."</p>
 
 Michael Bay's films are known for being over the top. In "Dark of the Moon", Chicago gets destroyed. It doesn't get exciting when meteors strike the middle of nowhere in Nebraska or North Dakota, so instead, New York City, Shanghai and Paris get hit in "Armageddon". To the save the world, a group of oil-drillers meet up with a somewhat half-crazed Russian cosmonaut to blow up the astroid and save the world. Cue lots of drama, wisecracks, explosions and final death screams.
 

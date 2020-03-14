@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Contagion
+date: 2020-03-14 12:23:34 -0500
 ---
 
 ... I was going to place a comparison between the COVID-19 virus (the "coronavirus") and the fictional virus in this movie (MEV-1) after a critique of the film itself, but I decided to switch it around and place a critique of the film last, and address a viral comparison first. I should mention that I am not a medical expert, so I may be incorrect with the facts.

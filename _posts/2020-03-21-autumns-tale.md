@@ -1,7 +1,7 @@
 ---
 layout: default
 title: An Autumn's Tale
-date: 2020-03-21 22:04:38 -0600
+date: 2020-03-21 22:04:38 -0500
 ---
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S7RKXY2GpUc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

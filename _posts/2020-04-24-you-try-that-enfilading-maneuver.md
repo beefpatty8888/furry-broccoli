@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "\"...You try that enfilading maneuver..."\"
+title: "\"...You try that enfilading maneuver...\""
 date: 2020-04-25 15:37:06 -0400
 ---
 > <p>"You try that enfilading maneuver," he said, starting away.</p>

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Cinema Paradiso"
+date: 2020-07-26 17:48:08 -0400
 ---
 <div class="video-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n-9prZvABtU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

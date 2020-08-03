@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Portrait Of A Lady On Fire"
+date: 2020-08-02 20:22:15 2020 -0400
 ---
 
 ... of the works of John Singer Sargent, some of think of "Madame X", which [hangs at the MET](https://www.metmuseum.org/art/collection/search/12127). Or, for a school-teacher that I once knew, maybe it is [The Daughters Of Edward Darley Boit](https://www.johnsingersargent.org/The-Daughters-Of-Edward-Darley-Boit.html). For me, it is the portrait of [Lady Agnew of Locknaw](https://en.wikipedia.org/wiki/Lady_Agnew_of_Lochnaw) . Lounging on a chair, she is both relaxed, but yet also slightly inquisitive. "Quietly challanging" is the phrase used in the wikipedia article. Of course, she has long passed away, as well as the people who might have known her, but I sometimes wonder of her personality, and how close her portrait is to representing her true self.

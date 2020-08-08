@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Incendies"
+date: 2020-08-08 16:42:04 2020 -0400
 ---
 
 ... in a [video interview](https://www.youtube.com/watch?v=z2Ub_K3ObB0) with the director, Denis Villeneuve described the story of the film as a "Greek tragedy". "Incendies" is, at the very least, heartbreaking. And shocking in its own way. There are no light-hearted moments in this rather serious dramatic film, aside from one minor, understated moment of levity.

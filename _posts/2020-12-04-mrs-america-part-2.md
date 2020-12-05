@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Mrs. America, Part II"
+date: 2020-12-05 12:11:54 -0500
 ---
 
 ... "Mrs. America" is the story of women. It is not just the story of feminists, but the other women who were the "anti-feminists". The series has a deft hand, for a nuanced showcase of the many real life controversial individuals in which this show is based on. Some of them are still alive, some have passed on, but what I had found most interesting, is that "Mrs. America" gave personality to many of the legends during a critical time.

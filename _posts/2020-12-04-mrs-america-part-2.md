@@ -1,0 +1,12 @@
+---
+layout: default
+title: "Mrs. America, Part II"
+---
+
+... "Mrs. America" is the story of women. It is not just the story of feminists, but the other women who were the "anti-feminists". The series has a deft hand, for a nuanced showcase of the many real life controversial individuals in which this show is based on. Some of them are still alive, some have passed on, but what I had found most interesting, is that "Mrs. America" gave personality to many of the legends during a critical time.
+
+For many, the titans of the feminist movement are only names in a history book. Betty Friedan's "The Feminine Mystique", Gloria Steinem's "Ms." or perhaps a brief mention of Shirley Chisholm's run for the presidency. "Mrs. America" puts some life into their stories, rivalries and interpersonal dynamics. Betty Friedan's difficult personality, Shirley Chisholm's struggle with other feminists, other Democratic leaders, for a legitimate run as a black woman, or Gloria Steinem's abortion when she was younger. In an odd way, I didn't realize how much New York City figured into the movement until researching many of the real life counterparts. Shirley Chisholm was born in New York City. So had Bella Abzug.
+
+A special note for the opposition leader, Phyllis Schlafly. My personal opinion here is that "Mrs. America" pulls off the exceptionally difficult task of an authentic portrayal of the "anti-feminist" opposition leader, without resorting to caricatures. I cannot speak on the accuracy, but the Phyllis Schlafly in "Mrs. America" defies easy categorization. Part of it is from Cate Blanchett's rather skilled abilities as an actress, the other is that series also takes the time to allow Phyllis Schlafly to reveal herself. Multiple shades of her personality appear. Her intelligence and ambition, and also her home life as a wife and mother.
+
+I don't think I am spoiling things to say that the ERA was not implemented; the history is in the public view on [wikipedia](https://en.wikipedia.org/wiki/Equal_Rights_Amendment). There has been multiple attempts to revive the ERA, and a couple of states have ratified the ERA since the events in the series, but for the most part, the discussions of gender equality have moved beyond the passage of the Equal Rights Amendment. Much had changed since the 1970's. There is little question now on the role of women in the workforce. Most households now are "dual-income" in which both the husband and wife work. The discussions on gender equality are still ongoing, but the ERA is no longer a central part. 

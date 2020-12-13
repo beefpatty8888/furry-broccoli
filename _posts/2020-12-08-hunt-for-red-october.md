@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "The Hunt For Red October"
+date: 2020-12-12 19:27:12 -0500
 ---
 
 ... of the recent military submarine films, "The Hunt For Red October" probably stands out as the best. "Crimson Tide" with Gene Hackman and Denzel Washington has its moments, so does "Hunter Killer" with Gerald Butler and "K-19: The Widowmaker" with Harrison Ford. None of these, in my own opinion, surpasses "The Hunt For Red October".

@@ -1,7 +1,10 @@
-FROM ubuntu:xenial
+FROM ubuntu:bionic
 
 RUN apt update
 RUN apt install curl git gnupg2 build-essential zlib1g-dev sudo -y
+# https://github.com/f-secure-foundry/usbarmory-debian-base_image/issues/9
+RUN mkdir ~/.gnupg
+RUN echo "disable-ipv6" >> ~/.gnupg/dirmngr.conf
 RUN gpg2 --keyserver hkp://pool.sks-keyservers.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3 7D2BAF1CF37B13E2069D6956105BD0E739499BDB
 RUN useradd -m jekyll
 RUN echo 'jekyll ALL=(ALL) NOPASSWD: /usr/bin/apt,/usr/bin/apt-get' >> /etc/sudoers.d/jekyll

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Octopussy"
-date: 2021-05-08 16:20:43 -0400
+date: 2021-05-04 16:20:43 -0400
 ---
 ... the James Bond films has a long and storied history. "Octopussy", released in 1983, was the 13th of a series that is still going strong. With Roger Moore as James Bond, "Octopussy" was during the era of campier James Bond films, one line zingers, wisecracks and being slightly over-the-top. 
 
